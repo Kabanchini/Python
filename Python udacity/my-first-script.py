@@ -5,3 +5,24 @@ def welcome_message(name):
 #Call the welcome message function with the input "Udacity Student" 
 #and print the output
 print(welcome_message("Udacity Student"))
+s
+gsd
+gs
+g
+se
+g
+dsg
+s
+g
+s
+gs
+g
+s
+g
+sg
+sd
+g
+s
+g
+sdg
+sdg
