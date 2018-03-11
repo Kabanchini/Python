@@ -100,5 +100,7 @@ ENV/
 # mypy
 
 
-.swp
+*.swp
 .mypy_cache/
+
+.idea/
